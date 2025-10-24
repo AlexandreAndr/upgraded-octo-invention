@@ -1,4 +1,4 @@
-baseURL = "https://alexandreandr.github.io/"
+baseURL = "https://alexandreandr.github.io/upgraded-octo-invention/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Hugo Apéro"
