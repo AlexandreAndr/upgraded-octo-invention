@@ -12,7 +12,6 @@ intro: |
   - 🎓 May 2025: Graduated from Georgia Tech!
   - 🎓 Feb 2025: Graduated from UTC – Université de Technologie de Compiègne!
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
 show_outro: true
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
