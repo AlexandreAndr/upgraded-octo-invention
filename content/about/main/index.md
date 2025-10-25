@@ -6,7 +6,11 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  - 📄 Sep 2025: Revealing Potential Biases in LLM-Based Recommender Systems in the Cold Start Setting, main author and oral at EARL (RecSys 2025)!
+  - 🧑‍🎓 Aug 2025: Began PhD at UPenn!
+  - 📄 May 2025: Neural Encoding and Decoding at Scale (NEDS) spotlight at ICML 2025!
+  - 🎓 May 2025: Graduated from Georgia Tech!
+  - 🎓 Feb 2025: Graduated from UTC – Université de Technologie de Compiègne!
   
   I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
 show_outro: true
