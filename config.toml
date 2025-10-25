@@ -112,8 +112,6 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://github.com/apreshill/apero"
 
-      <i class="fa- fa-"></i>
-
 [taxonomies]
   category = "categories"
   series = "series"
