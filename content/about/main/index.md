@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  - 📄 Sep 2025: Revealing Potential Biases in LLM-Based Recommender Systems in the Cold Start Setting, main author and oral at EARL (RecSys 2025)!
+  - 📄 Sep 2025: [Revealing Potential Biases in LLM-Based Recommender Systems in the Cold Start Setting](https://arxiv.org/abs/2508.20401), main author and `oral` at `EARL 2025 (RecSys)`!
   - 🧑‍🎓 Aug 2025: Began PhD at UPenn!
   - 📄 May 2025: Neural Encoding and Decoding at Scale (NEDS) spotlight at ICML 2025!
   - 🎓 May 2025: Graduated from Georgia Tech!
