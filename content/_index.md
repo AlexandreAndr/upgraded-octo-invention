@@ -1,6 +1,6 @@
 ---
-title: "Alexandre Andre"
-subtitle: "NeuroAI @NerDS Lab, CiS PhD @ Penn A"
+title: "Alex(andre) Andre"
+subtitle: "CiS PhD @ Penn, NeuroAI @NerDS Lab"
 description: "I am a PhD student in Computer & Information Science at UPenn specializing in NeuroAI with a focus on sequence modeling."
 images:
   - img/revoir.jpg
