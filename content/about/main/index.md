@@ -12,7 +12,7 @@ intro: |
   - 🎓 May 2025: Graduated from Georgia Tech!
   - 🎓 Feb 2025: Graduated from UTC – Université de Technologie de Compiègne!
   
-show_outro: true
+show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
 ---
